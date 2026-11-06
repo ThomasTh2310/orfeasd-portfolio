@@ -17,7 +17,7 @@ const projects = [
       "images/beach/02.jpg",
       "images/beach/03.jpg",
       "images/beach/04.jpg",
-      "images/beach/05.jpg",
+      "images/beach/999999999.jpg",
       "images/beach/06.jpg",
       "images/beach/07.jpg",
       "images/beach/08.jpg",
