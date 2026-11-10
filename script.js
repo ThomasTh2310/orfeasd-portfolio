@@ -46,21 +46,74 @@ const projects = [
     ]
   }
 
-  /*
-  ADD ANOTHER PROJECT LIKE THIS:
 
-  ,{
-    title: "Athens",
-    cover: "images/athens/cover.jpg",
+,{
+  title: "XX",
+  cover: "/photos/XX_15.jpg",
 
-    photos: [
-      "images/athens/01.jpg",
-      "images/athens/02.jpg",
-      "images/athens/03.jpg"
-    ]
-  }
+  photos: [
+    "/photos/XX_01.jpg",
+    "/photos/XX_02.jpg",
+    "/photos/XX_03.jpg",
+    "/photos/XX_04.jpg",
+    "/photos/XX_05.jpg",
+    "/photos/XX_06.jpg",
+    "/photos/XX_07.jpg",
+    "/photos/XX_08.jpg",
+    "/photos/XX_09.jpg",
+    "/photos/XX_10.jpg",
+    "/photos/XX_11.jpg",
+    "/photos/XX_12.jpg",
+    "/photos/XX_13.jpg",
+    "/photos/XX_14.jpg",
+    "/photos/XX_15.jpg",
+    "/photos/XX_16.jpg",
+    "/photos/XX_17.jpg",
 
-  */
+  ]
+}
+,{
+  title: "HELLO...GOODBYE",
+  cover: "/photos/HELLO...GOODBYE_08.jpg",
+
+  photos: [
+    "photos/HELLO...GOODBYE_01.jpg",
+    "photos/HELLO...GOODBYE_02.jpg",
+    "photos/HELLO...GOODBYE_03.jpg",
+    "photos/HELLO...GOODBYE_04.jpg",
+    "photos/HELLO...GOODBYE_05.jpg",
+    "photos/HELLO...GOODBYE_06.jpg",
+    "photos/HELLO...GOODBYE_07.jpg",
+    "photos/HELLO...GOODBYE_08.jpg",
+    "photos/HELLO...GOODBYE_09.jpg",
+    "photos/HELLO...GOODBYE_10.jpg",
+    "photos/HELLO...GOODBYE_11.jpg",
+    "photos/HELLO...GOODBYE_12.jpg",
+    "photos/HELLO...GOODBYE_13.jpg",
+    "photos/HELLO...GOODBYE_14.jpg",
+    "photos/HELLO...GOODBYE_15.jpg",
+    "photos/HELLO...GOODBYE_16.jpg",
+  ]
+}
+,{
+  title: "Untitled",
+  cover: "photos/UNTITLED_06.jpg",
+
+  photos: [
+    "photos/UNTITLED_01.jpg",
+    "photos/UNTITLED_02.jpg",
+    "photos/UNTITLED_03.jpg",
+    "photos/UNTITLED_04.jpg",
+    "photos/UNTITLED_05.jpg",
+    "photos/UNTITLED_06.jpg",
+    "photos/UNTITLED_07.jpg",
+    "photos/UNTITLED_08.jpg",
+    "photos/UNTITLED_09.jpg",
+    "photos/UNTITLED_10.jpg",
+    "photos/UNTITLED_11.jpg",
+    "photos/UNTITLED_12.jpg",
+    "photos/UNTITLED_13.jpg"
+  ]
 
 ];
 
