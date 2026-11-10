@@ -114,8 +114,8 @@ const projects = [
     "photos/UNTITLED_12.jpg",
     "photos/UNTITLED_13.jpg"
   ]
-
-];
+}
+]
 
 
 /* ELEMENTS */
