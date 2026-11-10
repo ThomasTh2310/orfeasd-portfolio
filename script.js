@@ -10,7 +10,7 @@ const projects = [
 
   {
     title: "MEMORY LOST",
-    cover: "/photos/MEMORY LOST_05.jpg",
+    cover: "/photos/MEMORY LOST/MEMORY LOST_05.jpg",
 
     photos: [
       "photos/MEMORY LOST/MEMORY LOST_01.jpg",
@@ -49,7 +49,7 @@ const projects = [
 
 ,{
   title: "XX",
-  cover: "photos/XX_15.jpg",
+  cover: "photos/XX/XX_15.jpg",
 
   photos: [
     "photos/XX/XX_01.jpg",
