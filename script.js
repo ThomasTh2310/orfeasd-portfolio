@@ -9,22 +9,40 @@
 const projects = [
 
   {
-    title: "Beach",
-    cover: "images/beach/cover.jpg",
+    title: "MEMORY LOST",
+    cover: "/photos/MEMORY LOST_05.jpg",
 
     photos: [
-      "images/beach/01.jpg",
-      "images/beach/02.jpg",
-      "images/beach/03.jpg",
-      "images/beach/04.jpg",
-      "images/beach/999999999.jpg",
-      "images/beach/06.jpg",
-      "images/beach/07.jpg",
-      "images/beach/08.jpg",
-      "images/beach/09.jpg",
-      "images/beach/10.jpg",
-      "images/beach/11.jpg",
-      "images/beach/12.jpg"
+      "/photos/MEMORY LOST_01.jpg",
+      "/photos/MEMORY LOST_02.jpg",
+      "/photos/MEMORY LOST_03.jpg",
+      "/photos/MEMORY LOST_04.jpg",
+      "/photos/MEMORY LOST_05.jpg",
+      "/photos/MEMORY LOST_06.jpg",
+      "/photos/MEMORY LOST_07.jpg",
+      "/photos/MEMORY LOST_08.jpg",
+      "/photos/MEMORY LOST_09.jpg",
+      "/photos/MEMORY LOST_10.jpg",
+      "/photos/MEMORY LOST_11.jpg",
+      "/photos/MEMORY LOST_12.jpg",
+      "/photos/MEMORY LOST_13.jpg",
+      "/photos/MEMORY LOST_14.jpg",
+      "/photos/MEMORY LOST_15.jpg",
+      "/photos/MEMORY LOST_16.jpg",
+      "/photos/MEMORY LOST_17.jpg",
+      "/photos/MEMORY LOST_18.jpg",
+      "/photos/MEMORY LOST_19.jpg",
+      "/photos/MEMORY LOST_20.jpg",
+      "/photos/MEMORY LOST_21.jpg",
+      "/photos/MEMORY LOST_22.jpg",
+      "/photos/MEMORY LOST_23.jpg",
+      "/photos/MEMORY LOST_24.jpg",
+      "/photos/MEMORY LOST_25.jpg",
+      "/photos/MEMORY LOST_26.jpg",
+      "/photos/MEMORY LOST_27.jpg",
+      "/photos/MEMORY LOST_28.jpg",
+      "/photos/MEMORY LOST_29.jpg",
+      
     ]
   }
 
